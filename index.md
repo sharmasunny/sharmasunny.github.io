@@ -6,10 +6,10 @@ title: Sunny Sharma CV
 Software Engineer, Full Stack JS Engineer, JS Evangelist, AI Enthusiast
 
 <div id="webaddress">
-  <a href="mailto:sv.sunnysharma@gmail.com">Email</a>
-| <a href="https://github.com/sharmasunny">Github</a>
-| <a href="https://twitter.com/sunnysharma">Twitter</a>
-| <a href="http://linkedin.com/in/sunnysharma">LinkedIn</a>
+  <a href="mailto:sv.sunnysharma@gmail.com" target="_blank">Email</a>
+| <a href="https://github.com/sharmasunny" target="_blank">Github</a>
+| <a href="https://twitter.com/sunnysharma" target="_blank">Twitter</a>
+| <a href="http://linkedin.com/in/sunnysharma" target="_blank">LinkedIn</a>
 </div>
 
 
