@@ -42,6 +42,6 @@ __kurukshetra university (KUK)__
 
 ### Footer
 
-This page is maintained with ❤️ & ☕️ by [Sunny Sharma](https://github.com/sharmasunny)
+This page is maintained with ❤️ & ☕️ by [Sunny Sharma](https://github.com/sunxysharma)
 
 
